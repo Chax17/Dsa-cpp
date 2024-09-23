@@ -1,1 +1,2 @@
-git 
+Hello world 
+i will try to improve my DSA skills by pratcing daily 
